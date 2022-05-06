@@ -20,11 +20,13 @@
 - Then run `npm start` to run the web app
 
 
+<img src="./Images/image-1.png" width="70%" height="70%">
+<img src="./Images/image-2.png" width="70%" height="70%">
+<img src="./Images/image-3.png" width="70%" height="70%">
+<img src="./Images/image-4.png" width="70%" height="70%">
 
+<!-- 
 ![](./Images/image-1.png)
-
 ![](./Images/image-2.png)
-
 ![](./Images/image-3.png)
-
-![](./Images/image-4.png)
+![](./Images/image-4.png) -->
