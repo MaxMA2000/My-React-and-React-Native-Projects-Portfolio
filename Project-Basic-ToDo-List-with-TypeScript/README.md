@@ -8,7 +8,7 @@
 - Users can input their ToDo item and show them on the screen
 - Users can also click each item to delete it
 
-![](./ToDo.png)
+<img src="./ToDo.png" width="70%" height="70%">
 
 ## How to Run this project?
 
