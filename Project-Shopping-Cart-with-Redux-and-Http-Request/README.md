@@ -21,7 +21,7 @@
 - Run `npm start`
 
 
-<img src="./Images/image-1.png" width="500" height="500">
+<img src="./Images/image-1.png" width="70%" height="70%">
 <!-- ![](./Images/image-1.png) -->
 
 <!-- ![](./Images/image-2.png) -->
