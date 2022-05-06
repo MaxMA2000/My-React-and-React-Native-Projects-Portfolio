@@ -21,3 +21,13 @@
   - Then create a "read-time-database" under your firebase project
   - Change yoru "real-time-database" URL in the `cart-actions.js` file in the `store` folder
 - Run `npm start`
+
+
+<img src="./Images/image-1.png" width="70%" height="70%">
+<img src="./Images/image-2.png" width="70%" height="70%">
+<img src="./Images/image-3.png" width="70%" height="70%">
+<img src="./Images/image-4.png" width="70%" height="70%">
+<img src="./Images/image-5.png" width="70%" height="70%">
+<img src="./Images/image-6.png" width="70%" height="70%">
+<img src="./Images/image-7.png" width="70%" height="70%">
+<img src="./Images/image-8.png" width="70%" height="70%">
