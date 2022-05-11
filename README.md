@@ -1,5 +1,5 @@
 # My-React-and-React-Native-Projects-Portfolio
-
+- All the projects are stored in different branches, feel free to click the project link below to direct~
 
 ## React Web Apps
 1. [Basic ToDo-List with TypeScript](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/Web-Basic-ToDo-List-with-TypeScript)
