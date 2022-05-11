@@ -1,13 +1,33 @@
-# My-React-and-React-Native-Projects-Portfolio
-- All the projects are stored in different branches, feel free to click the project link below to direct~
-
-## React Web Apps
-1. [Basic ToDo-List with TypeScript](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/Web-Basic-ToDo-List-with-TypeScript)
-2. [User Authentication and Counter with Redux](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/main/Project-User-Authentication-and-Counter-with-Redux)
-3. [Shopping-Cart with Redux and Http-Request](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/main/Project-Shopping-Cart-with-Redux-and-Http-Request)
-4. [Quotes Forum with React Router](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/main/Project-Quotes-Forum-with-React-Router)
+# Quotes Forum with React Router
 
 
 
-## React Native Mobile Apps
+## What is this project?
 
+- This is a Quote Forum where users can upload and view quotes
+- Users can change the sorting orders of quotes in the first page
+- Users can go to other pages, such as `quote detail page`, `add quote page`, etc
+- In the `quote detail page`, users can also load and comment below
+- In the `add quote page`, users can upload a quote
+- All the quotes & comments are stored in the Firebase backend, users can reload the page and all quotes & comments will show up, there is also a loading page when users are loading the quotes / comments
+
+
+
+## How to Run this project?
+
+- Download the project folder and run `npm install` to install all the packages
+- Set up the HTTP backend
+  - Create an account and a project on the [Firebase](https://firebase.google.com/)
+  - Then create a "read-time-database" under your firebase project
+  - Change yoru "real-time-database" URL in the `cart-actions.js` file in the `store` folder
+- Run `npm start`
+
+
+<img src="./Images/image-1.png" width="70%" height="70%">
+<img src="./Images/image-2.png" width="70%" height="70%">
+<img src="./Images/image-3.png" width="70%" height="70%">
+<img src="./Images/image-4.png" width="70%" height="70%">
+<img src="./Images/image-5.png" width="70%" height="70%">
+<img src="./Images/image-6.png" width="70%" height="70%">
+<img src="./Images/image-7.png" width="70%" height="70%">
+<img src="./Images/image-8.png" width="70%" height="70%">
