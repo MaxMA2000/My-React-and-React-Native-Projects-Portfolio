@@ -1,13 +1,32 @@
-# My-React-and-React-Native-Projects-Portfolio
-- All the projects are stored in different branches, feel free to click the project link below to direct~
-
-## React Web Apps
-1. [Basic ToDo-List with TypeScript](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/Web-Basic-ToDo-List-with-TypeScript)
-2. [User Authentication and Counter with Redux](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/Web-Quotes-Forum-with-React-Router)
-3. [Shopping-Cart with Redux and Http-Request](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/main/Project-Shopping-Cart-with-Redux-and-Http-Request)
-4. [Quotes Forum with React Router](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/main/Project-Quotes-Forum-with-React-Router)
+# Basic User Authentication & Counter with Redux
 
 
 
-## React Native Mobile Apps
+## What is this project?
 
+- This is a demo web app with `Redux` managing all the complex states
+- Users need to pass the email & password to login
+  - `Email`: must have `@` and `.com`
+  - `Password`:  must have 1 or more than 1 character
+- After logging in, the header will show the `logout` button and user can click to log out
+- Users can also then access the `Counter`, to increase / decrease numbers
+
+
+
+## How to Run this project?
+
+- Download the project folder
+- Run `npm install` to install all the project packages
+- Then run `npm start` to run the web app
+
+
+<img src="./Images/image-1.png" width="70%" height="70%">
+<img src="./Images/image-2.png" width="70%" height="70%">
+<img src="./Images/image-3.png" width="70%" height="70%">
+<img src="./Images/image-4.png" width="70%" height="70%">
+
+<!-- 
+![](./Images/image-1.png)
+![](./Images/image-2.png)
+![](./Images/image-3.png)
+![](./Images/image-4.png) -->
