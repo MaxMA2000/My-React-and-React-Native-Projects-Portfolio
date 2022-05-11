@@ -11,3 +11,5 @@
 
 ## React Native Mobile Apps
 1. [Basic Game - Guess My Number](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/App-Basic-Game-Guess-My-Number)
+2. [Basic User Authentication](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/App-Basic-User-Authentication)
+3. [Cook Meal Recipes](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/App-Cook-Meal-Recipes)
