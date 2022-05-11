@@ -1,13 +1,30 @@
-# My-React-and-React-Native-Projects-Portfolio
-- All the projects are stored in different branches, feel free to click the project link below to direct~
-
-## React Web Apps
-1. [Basic ToDo-List with TypeScript](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/Web-Basic-ToDo-List-with-TypeScript)
-2. [User Authentication and Counter with Redux](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/Web-Quotes-Forum-with-React-Router)
-3. [Shopping-Cart with Redux and Http-Request](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/main/Project-Shopping-Cart-with-Redux-and-Http-Request)
-4. [Quotes Forum with React Router](https://github.com/MaxMA2000/My-React-and-React-Native-Projects-Portfolio/tree/main/Project-Quotes-Forum-with-React-Router)
+# Shopping Cart with Redux and Http Request
 
 
 
-## React Native Mobile Apps
+## What is this project?
 
+- This is a shopping cart with Redux managing the states and HTTP requests
+- Users can add item to their shopping cart, the data will be POST to your Firebase real-time-database
+- Users can click the "My Cart" to open the shopping cart and change the amount of buying items
+- When users reload the page, the shopping cart will automatically GET the data from the Firebase real-time-database
+
+
+
+## How to Run this project?
+
+- Download the project folder and run `npm install` to install all the packages
+- Set up the HTTP backend
+  - Create an account and a project on the [Firebase](https://firebase.google.com/)
+  - Then create a "read-time-database" under your firebase project 
+  - Change yoru "real-time-database" URL in the `cart-actions.js` file in the `store` folder
+- Run `npm start`
+
+
+<img src="./Images/image-1.png" width="70%" height="70%">
+<img src="./Images/image-2.png" width="70%" height="70%">
+<img src="./Images/image-3.png" width="70%" height="70%">
+
+<!-- ![](./Images/image-1.png) -->
+<!-- ![](./Images/image-2.png) -->
+<!-- ![](./Images/image-3.png) -->
