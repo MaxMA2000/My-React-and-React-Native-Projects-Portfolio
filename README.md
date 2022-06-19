@@ -5,7 +5,7 @@
 |---|---|---|---|---|
 |[Fancy Clothes Online Shop](https://github.com/MaxMA2000/My-Web-App-Projects-Portfolio/tree/Fancy-Clothes-Shop)|`HTML` `CSS` `JavaScript`|`PHP`|`MySQL`|`XAMPP` `Backend Management System`  |
 |[Basic ToDo List with TypeScript](https://github.com/MaxMA2000/My-Web-App-Projects-Portfolio/tree/Basic-ToDo-List-with-TypeScript)|`React` `TypeScript`| `null`  | `null`  | `null`|
-|[Quotes Forum]| `React` `JavaScript` `CSS Module`|`Google Firebase`|`Google Firebase` | `React Router`|
-| |   |   |   |   |
+|[Quotes Forum](https://github.com/MaxMA2000/My-Web-App-Projects-Portfolio/tree/Quotes-Forum-with-React-Router)| `React` `JavaScript` `CSS Module`|`Google Firebase`|`Google Firebase` | `React Router`|
+|[Shopping Cart](https://github.com/MaxMA2000/My-Web-App-Projects-Portfolio/tree/Shopping-Cart-with-Redux-and-Http-Request)| `React` `JavaScript` `CSS Module`|`Google Firebase`|`Google Firebase`| `Redux` `Http Request`|
 | |   |   |   |   |
 | |   |   |   |   |
