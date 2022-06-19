@@ -8,6 +8,27 @@
 
 ## Special Remarks About Projects
 
+- **Frontend**
+  - Using `React Framework` & `React Router` to handle the various components & pages & routes
+  - Manage the architecture using the `users` / `places` / `shared` folders and create `components` & `pages` sub-folders within it.
+  - Manage the complex states regarding users authentication (login / logout) using context
+  - Having form validation check and custom hooks for the sign in / login in function
+  - Users can view their and others' favorite places on map using the Google Map API service
+  - Storing the user token on the frontend with 1 hour limit, so that users can stay login even refreshing the browser
+
+
+- **Backend**
+  - Using the MVC architecture to manage backend `middleware`, `routes` and `controllers`
+  - Create APIs for users and places so that the frontend can send `GET`, `POST`, `PATCH`, `DELETE` HTTP requests to the backend APIs
+  - Receiving frontend's requests and validate the received information, as well as handling HTTP error
+  - Tokenize the user password for security reasons and create an unique ID for new user / places
+  - Store the users' uploaded pictures in certain folder, and find location's coordinates based on location address
+  - Connect the backend with the `MongoDB` so that any data changes will be stored in the separated database
+
+
+- **Database**
+  - Using `MongoDB` (non-SQL DB) to store `users` and `places` information in collections format
+  - Having the one-to-many relationships between `users` and `places`
 
 
 
